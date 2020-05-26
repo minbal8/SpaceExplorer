@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c31128685d88ac143a812a2530a65c0e, type: 3}
+  m_Name: Snicker
+  m_EditorClassIdentifier: 
+  id: 1
+  uiDisplay: {fileID: 8784019252837020500, guid: 09dc1c133b6fcbd4bbeb815ea88bd7b3,
+    type: 3}
+  type: 2
+  groundItemPrefab: {fileID: 7742940487814957376, guid: eb4c1faf56ddabe41a4e4c7eaeb91705,
+    type: 3}
+  groundStackItemPrefab: {fileID: 6668295490443244180, guid: c42ba4469f4414144a72b80b40886161,
+    type: 3}
+  description: A candy bar.
+  restoreFoodAmount: 10
+  restoreHealthAmount: 0
